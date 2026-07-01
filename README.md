@@ -78,5 +78,3 @@ graph TD
 *   📧 **Email:** [andres.thebad@gmail.com](mailto:andres.thebad@gmail.com)
 *   📍 **Ubicación:** Medellín, Colombia 🇨🇴
 
----
-*(Nota: Recuerda cambiar `TU_USUARIO_AQUÍ` en la sección de estadísticas por tu nombre de usuario real de GitHub).*
