@@ -74,7 +74,7 @@ graph TD
 
 ## 📬 Conectemos
 
-*   💼 **LinkedIn:** [https://www.linkedin.com/in/andresfelipeorozcogonzalez/](https://www.linkedin.com/in/andrés-orozco-76bb85237/)
+*   💼 **LinkedIn:** [Andrés Orozco](https://www.linkedin.com/in/andrés-orozco-76bb85237/)
 *   📧 **Email:** [andres.thebad@gmail.com](mailto:andres.thebad@gmail.com)
 *   📍 **Ubicación:** Medellín, Colombia 🇨🇴
 
