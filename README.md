@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy **Tecnólogo en Sistemas** con pasión por construir soluciones de software eficientes, automatizar flujos de trabajo corporativos complejos e integrar tecnologías que impacten positivamente el rendimiento del negocio. 
+Soy **Ingeniero en Sistemas** con pasión por construir soluciones de software eficientes, automatizar flujos de trabajo corporativos complejos e integrar tecnologías que impacten positivamente el rendimiento del negocio. 
 
 Actualmente me desempeño como **Analista de Desarrollo Tecnológico** en **Autobuses el Poblado Laureles - APL**, donde lidero proyectos de digitalización e infraestructura, especializándome en:
 
